@@ -149,6 +149,9 @@ header{
 }
 .hdiv{
     color: white;
+    font-size: 40px;
+    padding: 10px;
+    font-family: Arial, Helvetica, sans-serif ;
 }
 .telas{
 
