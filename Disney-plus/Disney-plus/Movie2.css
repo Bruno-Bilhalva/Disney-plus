@@ -1,0 +1,36 @@
+html{
+    scroll-behavior: smooth;
+}
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+    background-color: rgb(32, 31, 31);
+}
+
+.imglogo{
+    margin-left: 20px;
+    margin-top: 5px;
+    position: fixed;
+    background: none;
+    
+    
+}
+.section1{
+    background-image: url(img/Picsart_22-08-08_16-03-52-075.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+.h11{
+    color: white;
+}
+.div11{
+
+    margin-left: ;
+    
+}
+input{
+    display: block;
+    
+}
