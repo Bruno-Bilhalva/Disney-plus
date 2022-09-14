@@ -23,14 +23,93 @@ html{
     height: 100vh;
 }
 .h11{
+    padding-top: 15px;
     color: white;
+    margin-left: 10%;
+    background-color: rgba(0, 0, 0, 0.638);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 35px;
+    padding-bottom: 30px;
 }
 .div11{
 
-    margin-left: ;
+    background-color: rgba(0, 0, 0, 0.638);
+    width: 23.5%;
+    height: 50%;
+    margin: auto;
+    position: absolute;
+    left: 38%;
+    top: 18%;
+    
     
 }
 input{
     display: block;
+    margin-left: 10%;
+    background-color: transparent;
+
+    
     
 }
+.input1{
+    height: 50px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(32, 31, 31, 0.661);
+    border-radius: 6px;
+    font-size: 15px;
+    margin-bottom: 30px;
+    color: white;
+    border: none;
+
+      
+}
+.input2{
+    
+    height: 50px;
+    width: 300px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgba(32, 31, 31, 0.661);
+    border-radius: 6px;
+    font-size: 15px;
+    margin-bottom: 30px;
+    color: white;
+    border: none;
+}
+.input3{
+    height: 40px;
+    width: 300px;
+    text-align: center;
+    font-size: 20px;
+    background-color: red;
+    border-color: red;
+    color: white;
+    border-radius: 6px;
+    
+}
+.input4{
+    margin-top: 5px;
+    display: inline;
+}
+.label1{
+    background-color: transparent;
+    color: white;
+    font-size: 13px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 5px;
+    
+   
+}
+.p1{
+    display: inline;
+    background-color: transparent;
+    
+}
+.imglogo:hover{
+    cursor:pointer;
+     transition: 1s all;
+     transform: scale(1.1);
+
+}
+
+

@@ -16,6 +16,7 @@ header{
     margin-top: 5px;
     position: fixed;
     background: none;
+
     
     
 }
@@ -156,5 +157,11 @@ header{
 .telas{
 
     margin-left: 60px;
+
+}
+.imglogo:hover{
+    cursor:pointer;
+     transition: 1s all;
+     transform: scale(1.1);
 
 }
